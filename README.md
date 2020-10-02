@@ -1,15 +1,17 @@
 # CustomizeButtonforForm
  A button wth Icon for Dynamics 365 Form
  
- Sample Button:
+ Sample Buttons:
  
  ![Image of Samples](https://github.com/molyom/CustomizeButtonforForm/blob/main/SampleButton.png)
  
  
+ # This is an <h1> tag
+ 
  Config it with a lot of Icons
  ![Image of Config](https://github.com/molyom/CustomizeButtonforForm/blob/main/Config.png)
  
- 
+ # This is an <h1> tag
  
  Code for Dynamics form to lunch any action
  
