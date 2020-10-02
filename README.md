@@ -7,7 +7,7 @@
  
  
  Config it with a lot of Icons
- ![Image of Config] (https://github.com/molyom/CustomizeButtonforForm/blob/main/Config.png)
+ ![Image of Config](https://github.com/molyom/CustomizeButtonforForm/blob/main/Config.png)
  
  
  
