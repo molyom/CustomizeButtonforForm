@@ -3,16 +3,16 @@
  
  Sample Buttons:
  
- ![Image of Samples](https://github.com/molyom/CustomizeButtonforForm/blob/main/SampleButton.png)
+![Image of Samples](https://github.com/molyom/CustomizeButtonforForm/blob/main/SampleButton.png)
  
  
- # This is an <h1> tag
+ Config it with a lot of Icons:
  
- Config it with a lot of Icons
- ![Image of Config](https://github.com/molyom/CustomizeButtonforForm/blob/main/Config.png)
  
- # This is an <h1> tag
+![Image of Config](https://github.com/molyom/CustomizeButtonforForm/blob/main/Config.png)
  
- Code for Dynamics form to lunch any action
+ 
+ Code for Dynamics form to lunch any action:
+ 
  
 ![Image of config](https://github.com/molyom/CustomizeButtonforForm/blob/main/CodeJS.png)
