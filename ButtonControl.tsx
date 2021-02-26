@@ -14,7 +14,6 @@ export interface IButtonState {
   text: string,
   onClick: () => void
   disabled: boolean,
-
 }
 
 export default class ButtonControl extends React.Component<IButtonProps, IButtonState>{
